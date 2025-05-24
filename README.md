@@ -1,2 +1,2 @@
-# Predict  Firuit price based on yield
-Predicting fruit prices using machine learning models linear regration  in Python"
+# Predict  Fruit price based on yield
+Predicting fruit prices using machine learning model linear regression  in Python"
